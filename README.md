@@ -1,6 +1,6 @@
 Please give me stars if you like my projects.
 
-# todo Management API
+# Todo Management API
 
 This API provides endpoints for managing todos, including operations such as adding new todos, retrieving todo details, updating todo information, and deleting todos.
 
