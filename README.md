@@ -40,4 +40,5 @@ Contributions are welcome! Please follow the contribution guidelines outlined in
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Feel free to adjust the content according to your project specifics and add more sections as needed.
+
